@@ -1,0 +1,14 @@
+Команды для регистрации ваших данных
+git config --global user.name "Albert"
+git config --global user.email "jasik800at@gmail.com"
+
+
+Команды только для одного проекта
+git init
+git remote add origin https://github.com/alberaht/Test.git
+
+Основные команды для работы с Git
+
+git status | Состояние проекта
+git add .  | Скопировать все в буфер обмена
+git
