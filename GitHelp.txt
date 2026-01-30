@@ -11,4 +11,4 @@ git remote add origin https://github.com/alberaht/Test.git
 
 git status | Состояние проекта
 git add .  | Скопировать все в буфер обмена
-git
+git commit -m
